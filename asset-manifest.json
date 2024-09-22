@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reconciliationtool/static/css/main.7916319d.css",
+    "main.js": "/reconciliationtool/static/js/main.c0ec23bf.js",
+    "static/js/239.564b1e70.chunk.js": "/reconciliationtool/static/js/239.564b1e70.chunk.js",
+    "static/js/213.7dcabd5e.chunk.js": "/reconciliationtool/static/js/213.7dcabd5e.chunk.js",
+    "static/js/732.cb0585e2.chunk.js": "/reconciliationtool/static/js/732.cb0585e2.chunk.js",
+    "static/js/453.4608b78f.chunk.js": "/reconciliationtool/static/js/453.4608b78f.chunk.js",
+    "index.html": "/reconciliationtool/index.html",
+    "main.7916319d.css.map": "/reconciliationtool/static/css/main.7916319d.css.map",
+    "main.c0ec23bf.js.map": "/reconciliationtool/static/js/main.c0ec23bf.js.map",
+    "239.564b1e70.chunk.js.map": "/reconciliationtool/static/js/239.564b1e70.chunk.js.map",
+    "213.7dcabd5e.chunk.js.map": "/reconciliationtool/static/js/213.7dcabd5e.chunk.js.map",
+    "732.cb0585e2.chunk.js.map": "/reconciliationtool/static/js/732.cb0585e2.chunk.js.map",
+    "453.4608b78f.chunk.js.map": "/reconciliationtool/static/js/453.4608b78f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7916319d.css",
+    "static/js/main.c0ec23bf.js"
+  ]
+}
